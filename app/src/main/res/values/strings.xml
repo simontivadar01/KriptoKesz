@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">CryptoApp</string>
+    <string name="watchlist">Watchlist</string>
+    <string name="market">Market</string>
+    <string name="home">Home</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="market_fragment">Market Fragment</string>
+    <string name="watchlist_fragment">watchList Fragment</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="not_found">Not found and data</string>
+    <string name="search_hint">Search Crypto currency</string>
+    <string name="empyt_watchlist">Watchlist is empty</string>
+    <string name="_1m">1 min</string>
+    <string name="_1w">1 week</string>
+    <string name="_1d">1 day</string>
+    <string name="_4h">4 hour</string>
+    <string name="_1h">1 hour</string>
+    <string name="_15m">15 min</string>
+    <string name="name">name</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="loginAsGuest">loginAsGuest</string>
+    <string name="loginWithGoogle">loginWithGoogle</string>
+    <string name="registration">Registration</string>
+    <string name="SignOut">Sign out</string>
+    <string name="default_web_client_id">461240503157-p09ilna1vc6gt7ni9cdv45qolcsppcrk.apps.googleusercontent.com</string>
+    <string name="user_name">username</string>
+    <string name="email_address">emailAddress</string>
+    <string name="password_again">passwordAgain</string>
+    <string name="phone_number">phoneNumber</string>
+    <string name="address">address</string>
+    <string name="cancel">cancel\n</string>
+</resources>
